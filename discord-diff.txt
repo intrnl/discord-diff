@@ -35,6 +35,9 @@ quickMessage-28pD5Y||quickMessage-OCo-Q0
 rolesList-2YHFg5||rolesList-2RhjNd
 userPopout-4pfA0d||userPopout-11hFKo
 
+# 7c6e08a37824937a2fff01f4f27488c9a45c4f07
+volumeWrapper-1qVOcY||videoVolumeWrapper-3syuC-
+
 # a9919559844d1a0c8658a2f750e04e6d51ba54c0
 activityFeed-HeiGwL||activityFeed--1mYMS
 avatar-1vyuJ3||avatar-2eVNVv
@@ -136,21 +139,8 @@ voiceChannel-h-8t6l||voiceChannel-2d2axS
 voiceChannelIcon-Ac0fPK||voiceChannelIcon-36iB0o
 voiceGuildIcon-1KWqrL||voiceGuildIcon-18JPdU
 
-# 7c6e08a37824937a2fff01f4f27488c9a45c4f07
-volumeWrapper-1qVOcY||videoVolumeWrapper-3syuC-
-
 # f8aac4bc59576eb8094dbaded4db3337ca5bb6a0
 filenameLink-2WwQH1||fileNameLink-342ZEF
-
-# b5e10b4a4d0b057439e3e19fb35ded41f14f1241
-backdrop-1ocfXc||backdrop-1wrmKB
-
-# b3a7c3f3c16252a6f579a4a5dd4b0eb750ca7b2d
-actionButtons-3y8nuV||actionButtons-3P85gM
-actionIcon-1oJ_Xk||actionIcon--D_WrW
-incomingCallInner-2rV0UJ||incomingCallInner-2VmFiR
-members-2pafkj||members-2BNiuX
-subtitle-2a0Uxx||subtitle-1H8FPn
 
 # 67a1a173db14fac1e8696e667859b2f865bbe14e
 accountBtn-yEZXoY||accountBtn-2Nozo3
@@ -2868,4 +2858,14 @@ xsmall-2rXiD4||xsmall-3afG_L
 xsmall-3Nz9ph||xsmall-2ObGoR
 xxlarge-1arjqQ||xxlarge-1R_NA5
 xxlarge-3iEwSz||xxlarge-_cx7MS
+
+# b5e10b4a4d0b057439e3e19fb35ded41f14f1241
+backdrop-1ocfXc||backdrop-1wrmKB
+
+# b3a7c3f3c16252a6f579a4a5dd4b0eb750ca7b2d
+actionButtons-3y8nuV||actionButtons-3P85gM
+actionIcon-1oJ_Xk||actionIcon--D_WrW
+incomingCallInner-2rV0UJ||incomingCallInner-2VmFiR
+members-2pafkj||members-2BNiuX
+subtitle-2a0Uxx||subtitle-1H8FPn
 

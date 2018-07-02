@@ -12,6 +12,8 @@ const run = async () => {
   let stream = fs.createWriteStream('discord-diff.txt', { flags: 'a' })
 
   const changes = await readdir('./changes/')
+  changes.sort((a, b) => a - b)
+  
   changes.forEach(async change => {
     let data = await readfile(`./changes/${change}`)
     
