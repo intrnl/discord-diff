@@ -35,9 +35,6 @@ quickMessage-28pD5Y||quickMessage-OCo-Q0
 rolesList-2YHFg5||rolesList-2RhjNd
 userPopout-4pfA0d||userPopout-11hFKo
 
-# 7c6e08a37824937a2fff01f4f27488c9a45c4f07
-volumeWrapper-1qVOcY||videoVolumeWrapper-3syuC-
-
 # a9919559844d1a0c8658a2f750e04e6d51ba54c0
 activityFeed-HeiGwL||activityFeed--1mYMS
 avatar-1vyuJ3||avatar-2eVNVv
@@ -2858,6 +2855,9 @@ xsmall-2rXiD4||xsmall-3afG_L
 xsmall-3Nz9ph||xsmall-2ObGoR
 xxlarge-1arjqQ||xxlarge-1R_NA5
 xxlarge-3iEwSz||xxlarge-_cx7MS
+
+# 7c6e08a37824937a2fff01f4f27488c9a45c4f07
+volumeWrapper-1qVOcY||videoVolumeWrapper-3syuC-
 
 # b5e10b4a4d0b057439e3e19fb35ded41f14f1241
 backdrop-1ocfXc||backdrop-1wrmKB
