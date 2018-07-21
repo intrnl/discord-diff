@@ -505,6 +505,10 @@ horizontalReverse-2LanvO||horizontalReverse-k5PqxT
 spacer-1tn80v||spacer-2Aeq3k
 center-2G1dVt||center-1MLNrE
 
+# bacdd376dc9d087fec3afa1a4976c67f65abce5e
+checkboxBox-2i2Ris||box-XhjOl4
+checkboxRound-2mE6zl||round-30vw42
+
 # 3559f3de9e9d9a5e48dbd680e7459eadcf57d3e2
 activity-AFBUEw||activity-3NviKQ
 avatar-1jmnc-||avatar-1BXaQj
@@ -3377,9 +3381,9 @@ members-2pafkj||members-2BNiuX
 subtitle-2a0Uxx||subtitle-1H8FPn
 
 # edd307f6c9b8e3a4a11eb5b0d1fa89ad03013e42
+draggableStartArea-OZ85Xw||draggableStartArea-_2VSFf
 guildWidgetContent-2CnB6W||guildWidgetSidebar-ZsmPr0
 header-1QczlI||header-2ZdCft
-draggableStartArea-OZ85Xw||draggableStartArea-_2VSFf
-icon-3lzA9d||icon-UKb1Zl
 headerTitle-3IhLQK||headerTitle-1rvR6P
+icon-3lzA9d||icon-UKb1Zl
 
