@@ -517,6 +517,12 @@ switchWrapper-3sSQdm||switch-3lyafC
 # c3dc34e4a7dfd8e3e62fcb03d5c00381efe02a58
 draggable-2aWBFf||draggable-2WyjG9
 
+# c8fac11a697c850a6c8468e0951c653c88aa4f59
+center-1MLNrE||flexCenter-28Hs0n
+
+# 5c3e15f56b1b3c7c9bed5238f2027370cf22c661
+button-Z5DUOC||button-1a7E2t
+
 # 3559f3de9e9d9a5e48dbd680e7459eadcf57d3e2
 activity-AFBUEw||activity-3NviKQ
 avatar-1jmnc-||avatar-1BXaQj
@@ -529,14 +535,18 @@ avatarWrapperNormal-1wU7gX||avatarWrapperNormal-JT1DFd
 body-3rkFrF||body-3ljq11
 bodyTitle-yehI7c||bodyTitle-18hsd9
 bodyTitleText-hSiL7d||bodyTitle-18hsd9
+carousel-2BsVC0||carousel-K6OrVA
+emptyImage-2iM0sP||emptyImage-2P0etY
 endBodySection-1WYzxu||endBodySection-LvRMh6
 footer-2J5zqP||footer-2wFs91
 header-3mZJcV||header-3budic
+header-bJO8Nr||header-2e8b8j
 headerActivityText-3qBQRo||headerActivityText-38Tu39
 headerBotTag-1I8GCn||headerBotTag-1SM7sD
 headerLive-2dDMvp||headerLive-3Rgafc
 headerLiveIcon-3xiYw8||headerLiveIcon-3_Bsgp
 headerLiveText-2fmzkr||headerLiveText-1Emh53
+headerManageIcon-u1C4HN||headerManageIcon-14qizS
 headerName-2N8Pdz||headerName-3U6eDn
 headerNormal-1cioxU||headerNormal-3Vn9nT
 headerPlaying-2eYqm9||headerPlaying-2Q7mBy
@@ -546,12 +556,16 @@ headerTag-3zin_i||headerTag-I11IJx
 headerTagNoNickname-26rERL||headerTagNoNickname-36rgb9
 headerTagUsernameNoNickname-1gGsAP||headerTagUsernameNoNickname-22Y2PV
 headerText-3tKBWq||headerText-3ptbeX
+headerText-3y2iU2||headerText-1UPpBL
 headerTop-1QGMLs||headerTop-27AvhA
 image-EVRGPw||image-EVRGPw
 note-3Zfyi2||note-3rIr6P
 protip-12obwm||protip-q743VF
 quickMessage-28pD5Y||quickMessage-OCo-Q0
 rolesList-2YHFg5||rolesList-2RhjNd
+sectionBlurb-3i0XNG||sectionBlurb-1GFKHM
+sectionTitle-3ku1yM||sectionTitle-M62gTF
+sectionTitle-3ku1yM||sectionTitle-M62gTF
 userPopout-4pfA0d||userPopout-11hFKo
 
 # a9919559844d1a0c8658a2f750e04e6d51ba54c0
